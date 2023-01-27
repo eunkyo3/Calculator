@@ -1,1 +1,2 @@
-# javaFX
+# Calculator
+계산기
